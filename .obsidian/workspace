@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "26a2081b627f9c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "36006bd60af7bc02",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "super.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d5ee59c34f402b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d3855c52118e551",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d26ec3a1d93fc361",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a1086717d5b2e164",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dd71dc92afbd98e1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dab82d8b4ef97095",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "95492c175061b14a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "super.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7c67f4e0a9525898",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "super.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f35e0128012b5021",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "super.md"
+          }
+        }
+      },
+      {
+        "id": "b87fb725bb997ae9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "36006bd60af7bc02",
+  "lastOpenFiles": [
+    "三方库/三方库.md",
+    "基础/基础.md",
+    "super.md"
+  ]
+}
